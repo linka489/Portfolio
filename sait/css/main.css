@@ -1,0 +1,361 @@
+
+.desktop {
+  width: 100%;
+  height: 3301px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.background {
+  width:  1440px;
+  height: 3301px;
+  background: rgba(255,231,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.ellipse1 {
+  width: 1070px;
+  height: 400px;
+  background: url("../images/ellipse1.png");
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1010px;
+  left: 0px;
+}
+.ramka_name {
+  width: 868px;
+  height: 427px;
+  background: url("../images/ramka_name.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 648px;
+  overflow: hidden;
+}
+
+.name {
+  width: 642px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 129px;
+  left: 773px;
+  font-family: Monotype Corsiva;
+  font-weight: Regular;
+  font-size: 96px;
+  opacity: 1;
+  text-align: center;
+}
+.programmer {
+  width: 400px;
+  color: rgba(72,9,74,1);
+  position: absolute;
+  top: 218px;
+  left: 1015px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Palatino Linotype;
+  font-weight: Italic;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
+.ellipse3 {
+  width: 834px;
+  height: 339px;
+  background: url("../images/ellipse3.png");
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2998px;
+  left: 0px;
+}
+.contact {
+  width: 493px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 3060px;
+  left: 18px;
+  font-family: Monotype Corsiva;
+  font-weight: Italic;
+  font-size: 47px;
+  opacity: 1;
+  text-align: left;
+}
+.contacts {
+  width: 600px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 3120px;
+  left: 18px;
+  font-family: Palatino Linotype;
+  font-weight: Italic;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.about {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 715px;
+  left: 29px;
+  opacity: 1;
+  font-family: Monotype Corsiva;
+  font-size: 96px;
+  font-style: italic;
+  text-align: left;
+}
+.aboutMe {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 800px;
+  left: 29px;
+  opacity: 1;
+  font-family: Palatino Linotype;
+  font-size: 36px;
+  font-style: italic;
+  text-align: left;
+}
+.ellipse2 {
+  width: 615px;
+  height: 331px;
+  background: url("../images/ellipse2.png");
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1498px;
+  left: 1025px;
+}
+.obrazovanie {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1418px;
+  left: 29px;
+  opacity: 1;
+  font-family: Monotype Corsiva;
+  font-size: 96px;
+  font-style: italic;
+  text-align: left;
+}
+.t_obrazovanie {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1523px;
+  left: 29px;
+  opacity: 1;
+  font-family: Palatino Linotype;
+  font-size: 36px;
+  font-style: italic;
+  text-align: left;
+}
+
+.skills {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1025px;
+  left: 29px;
+  opacity: 1;
+  font-family: Monotype Corsiva;
+  font-size: 96px;
+  font-style: italic;
+  text-align: left;
+}
+.t_skills {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1110px;
+  left: 29px;
+  opacity: 1;
+  font-family: Palatino Linotype;
+  font-size: 36px;
+  text-align: left;
+}
+.experience  {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1700px;
+  left: 34px;
+  opacity: 1;
+  text-align: left;
+  font-family: Monotype Corsiva;
+  font-size: 96px;
+  font-style: italic;
+  text-align: left;
+}
+.t_experience  {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1790px;
+  left: 34px;
+  opacity: 1;
+  font-family: Palatino Linotype;
+  font-size: 36px;
+  font-style: italic;
+  text-align: left;
+}
+.workYear {
+  width: 470px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 546px;
+  left: 894px;
+  opacity: 1;
+  font-weight: Bold;
+  font-family: Palatino Linotype;
+  font-size: 48px;
+}
+.year3 {
+  width: 582px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 603px;
+  left: 1056px;
+  opacity: 1;
+  font-family: Palatino Linotype;
+  font-weight: Bold;
+  font-size: 96px;
+  text-align: left;
+}
+
+.ramkaFoto {
+  width: 644px;
+  height: 594px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  filter: blur(25px);
+  position: absolute;
+  top: 82px;
+  left: 29px;
+  border-radius: 50%;
+}
+.ramkaFoto2 {
+  width: 594px;
+  height: 546px;
+  background: rgba(254,227,255,1);
+  opacity: 1;
+  filter: blur(7px);
+  position: absolute;
+  top: 103px;
+  left: 54px;
+  border-radius: 50%;
+}
+.MyWork {
+  width: 902px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2055px;
+  left: 31px;
+  font-family: Monotype Corsiva;
+  font-weight: Regular;
+  font-size: 96px;
+  opacity: 1;
+  font-family: Monotype Corsiva;
+  font-size: 96px;
+  font-style: italic;
+  text-align: left;
+}
+.textMyWork {
+  width: 100%;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 2150px;
+  left: 31px;
+  font-family: Palatino Linotype;
+  font-weight: Italic;
+  font-size: 48px;
+  opacity: 1;
+  font-family: Palatino Linotype;
+  font-size: 36px;
+  font-style: italic;
+  text-align: left;
+}
+.myWork1 {
+  width: 426px;
+  height: 565px;
+  background: url("../images/work1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2302px;
+  left: 52px;
+  overflow: hidden;
+}
+.myWork2 {
+  width: 387px;
+  height: 394px;
+  background: url("../images/work2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2473px;
+  left: 562px;
+  overflow: hidden;
+}
+.myWork3 {
+  width: 236px;
+  height: 345px;
+  background: url("../images/work3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2522px;
+  left: 1034px;
+  overflow: hidden;
+}
+
+.foto {
+  width: 508px;
+  height: 469px;
+  background: url("../images/foto.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 141px;
+  left: 97px;
+  border-top-left-radius: 479px;
+  border-top-right-radius: 479px;
+  border-bottom-left-radius: 479px;
+  border-bottom-right-radius: 479px;
+  overflow: hidden;
+}
+.portfolio {
+  width: 642px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 10px;
+  left: 50px;
+  font-family: Palatino Linotype;
+  font-style: italic;
+  font-weight: Regular;
+  font-size: 60px;
+  opacity: 1;
+  text-align: left;
+}
